@@ -1,0 +1,1 @@
+hello text2 from f2.txt
